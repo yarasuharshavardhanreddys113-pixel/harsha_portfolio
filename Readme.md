@@ -1,4 +1,7 @@
 Harsha's Portfolio
+GitHub Repository link->https://github.com/yarasuharshavardhanreddys113-pixel/harsha_portfolio.git
+Live Deplyment Link->https://yarasuharshavardhanreddys113-pixel.github.io/harsha_portfolio/
+
 
 Welcome to my personal portfolio website! This is a simple and clean website created to showcase my skills, projects, and contact information.
 
@@ -45,5 +48,6 @@ Add animations and interactivity to improve user experience.
 Contact
 
 If you’d like to get in touch, please use the contact form on the website or email me directly.
+
 
 Thank you for visiting my portfolio!
